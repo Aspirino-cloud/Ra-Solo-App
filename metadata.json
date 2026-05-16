@@ -1,0 +1,6 @@
+{
+  "name": "RA Companion App",
+  "description": "Companion App for the board game RA with AI opponents and automated tracking.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
